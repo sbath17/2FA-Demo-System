@@ -1,4 +1,5 @@
 //This is the main programme
+//This features all pages that have been created and will be linked together
 using System;
 var builder = WebApplication.CreateBuilder(args);
 
@@ -28,3 +29,4 @@ app.MapControllerRoute(
 
 
 app.Run();
+
