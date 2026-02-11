@@ -1,4 +1,5 @@
-﻿using System;
+//This is the main programme
+using System;
 var builder = WebApplication.CreateBuilder(args);
 
 // MVC
@@ -24,5 +25,6 @@ app.UseSession();
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Account}/{action=Login}/{id?}");
+
 
 app.Run();
