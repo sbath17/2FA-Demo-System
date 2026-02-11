@@ -80,8 +80,7 @@ project is for learning/demo purposes --- not production‑ready
 
 \## 👤 Author
 
-\*\*Sukhpreet\*\* Master's in Computer Science \| Software Developer \|
-Security Enthusiast
+\*\*Sukhpreet\*\* Master's in Computer Science \| Security Enthusiast
 
 \-\--
 
